@@ -1,1 +1,3 @@
 git is verion contrl osysterm
+git commands are git init git push
+git pull
